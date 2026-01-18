@@ -1,3 +1,3 @@
-# Casino.82
+# 82casino.game
 Casino.82
 https://skillspindemo.netlify.app/
